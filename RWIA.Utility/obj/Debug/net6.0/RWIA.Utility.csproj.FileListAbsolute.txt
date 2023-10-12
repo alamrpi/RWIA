@@ -1,0 +1,12 @@
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\bin\Debug\net6.0\RWIA.Utility.deps.json
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\bin\Debug\net6.0\RWIA.Utility.dll
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\bin\Debug\net6.0\RWIA.Utility.pdb
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\RWIA.Utility.csproj.AssemblyReference.cache
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\RWIA.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\RWIA.Utility.AssemblyInfoInputs.cache
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\RWIA.Utility.AssemblyInfo.cs
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\RWIA.Utility.csproj.CoreCompileInputs.cache
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\RWIA.Utility.dll
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\refint\RWIA.Utility.dll
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\RWIA.Utility.pdb
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Utility\obj\Debug\net6.0\ref\RWIA.Utility.dll

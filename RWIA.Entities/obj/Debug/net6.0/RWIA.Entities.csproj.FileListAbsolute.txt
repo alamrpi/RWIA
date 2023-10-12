@@ -1,0 +1,12 @@
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\bin\Debug\net6.0\RWIA.Entities.deps.json
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\bin\Debug\net6.0\RWIA.Entities.dll
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\bin\Debug\net6.0\RWIA.Entities.pdb
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\RWIA.Entities.csproj.AssemblyReference.cache
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\RWIA.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\RWIA.Entities.AssemblyInfoInputs.cache
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\RWIA.Entities.AssemblyInfo.cs
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\RWIA.Entities.csproj.CoreCompileInputs.cache
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\RWIA.Entities.dll
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\refint\RWIA.Entities.dll
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\RWIA.Entities.pdb
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Entities\obj\Debug\net6.0\ref\RWIA.Entities.dll

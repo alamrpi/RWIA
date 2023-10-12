@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RWIA.API.props" />
+</Project>
