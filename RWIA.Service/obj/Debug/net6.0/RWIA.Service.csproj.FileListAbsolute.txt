@@ -1,8 +1,3 @@
-D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.csproj.AssemblyReference.cache
-D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.GeneratedMSBuildEditorConfig.editorconfig
-D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.AssemblyInfoInputs.cache
-D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.AssemblyInfo.cs
-D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.csproj.CoreCompileInputs.cache
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\bin\Debug\net6.0\RWIA.Service.deps.json
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\bin\Debug\net6.0\RWIA.Service.dll
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\bin\Debug\net6.0\RWIA.Service.pdb
@@ -12,6 +7,11 @@ D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\bin\Debug\net6.0\RWIA.Utility.dl
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\bin\Debug\net6.0\RWIA.Persistence.pdb
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\bin\Debug\net6.0\RWIA.Entities.pdb
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\bin\Debug\net6.0\RWIA.Utility.pdb
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.csproj.AssemblyReference.cache
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.AssemblyInfoInputs.cache
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.AssemblyInfo.cs
+D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.csproj.CoreCompileInputs.cache
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.csproj.CopyComplete
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\RWIA.Service.dll
 D:\projects\MorpheusSoft\RWIA\RWIA\RWIA.Service\obj\Debug\net6.0\refint\RWIA.Service.dll

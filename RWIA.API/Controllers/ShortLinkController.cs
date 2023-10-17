@@ -24,15 +24,15 @@ namespace RWIA.API.Controllers
         /// </summary>
         /// <param name="shortUrl">Code</param>
         /// <returns></returns>
-        [HttpPost("get")]
+        [HttpGet("{urlCode}")]
         [ProducesResponseType(200)]
         [ProducesResponseType(500)]
         [ProducesResponseType(400)]
-        public async Task<ActionResult<ShortLinkDto>> GetAsync([FromBody] string shortUrl)
+        public async Task<ActionResult<ShortLinkDto>> GetAsync([FromRoute] string urlCode)
         {
             try
             {
-                return Ok(await _shortLinkService.Get(shortUrl));
+                return Ok(await _shortLinkService.Get(urlCode));
             }
             catch (Exception ex)
             {
